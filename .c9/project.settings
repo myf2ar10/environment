@@ -48,20 +48,8 @@
     "workspace": {
         "@folders": [
             {
-                "name": "sites",
-                "path": "/sites"
-            },
-            {
                 "name": "yumi",
                 "path": "/yumi"
-            },
-            {
-                "name": "20230806",
-                "path": "/20230806"
-            },
-            {
-                "name": "caravan",
-                "path": "/caravan"
             }
         ]
     }
